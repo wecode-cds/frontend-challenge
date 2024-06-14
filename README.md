@@ -45,6 +45,14 @@ A aplicação deve permitir que o usuário adicione, edite, exclua, marque como 
 - Faça commits pequenos e frequentes, com mensagens claras e descritivas, seguindo o padrão `conventional commits`.
 - Teste sua aplicação em diferentes navegadores para garantir compatibilidade.
 
+## Como Enviar
+
+1. Faça um fork deste repositório.
+2. Implemente a solução no seu fork.
+3. Envie um email para: `contato@wecodecds.com` com o link do seu repositório.
+
+Você terá 72 horas para entregar o desafio, contadas a partir da entrega deste desafio a você.
+
 > Inteligência é a capacidade de se adaptar a mudança - Stephen Hawking
 
 Boa sorte!
